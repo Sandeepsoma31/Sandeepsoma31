@@ -50,7 +50,7 @@ Jira | Qtest
 
 ### ✍️ Read My Insights
 
-I occasionally share my learnings and automations tips here:  👉 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandeep031)
+I occasionally share my learnings and automation tips here:  👉  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandeep031)
 
 ---
 
