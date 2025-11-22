@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandeep Soma
 
-### 💻 SDET | QA Engineer | Aspiring Devops Engineer | 3 Years of Experience
+### 💻 SDET | Test Engineer | Aspiring Devops Engineer | 3 Years of Experience
 
      Automation | Devops | Cloud | GEN AI
 
@@ -45,6 +45,12 @@ Jira | Qtest
 
 - 🧠 **Generative AI & Agentic AI** – exploring how AI can enhance automation, quality insights, and productivity
 - ⚙️ **DevOps Path** – deepening knowledge in CI/CD, cloud, and infrastructure automation
+
+---
+
+### 💬 Quote I Live By
+     
+     “Perfection is not attainable, but if we chase perfection we can catch excellence.”
 
 ---
 
