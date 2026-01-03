@@ -65,3 +65,6 @@ I occasionally share my learnings and automation tips here:  👉  [![Medium](ht
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep031)    [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Sandeepsoma31)
 
 ---
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Sandeepsoma31)
+
