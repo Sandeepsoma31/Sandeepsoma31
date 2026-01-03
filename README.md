@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandeep Soma
 
-### 💻 SDET | Test Engineer | Aspiring Devops Engineer | 3 Years of Experience
+### 💻 SDET | Test Engineer | Aspiring Devops Engineer | 3+ Years of Experience
 
      Automation | Devops | Cloud | GEN AI
 
